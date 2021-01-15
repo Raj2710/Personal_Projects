@@ -1,0 +1,30 @@
+body{
+  background:linear-gradient(to right,#84f5bc,#84f5de,#1ad6d9,#076769);
+  color: white;
+  text-align:center;
+  margin-top:50px;
+  font-size:2em;
+  font-family:Nunito Sans;
+}
+input,button{
+  font-size:1.25em;
+  text-align:center;
+  border-radius:40px;
+  margin-top:20px;
+  font-family:Nunito Sans;
+}
+#out{
+  margin-top:20px;
+}
+#foot{
+  margin-top: 320px;
+  text-align: right;
+  bottom: 0;
+  right: 0;
+}
+button:hover
+{
+  background-color:#84f5de;
+  font-weight: bold;
+  cursor: pointer;
+}
